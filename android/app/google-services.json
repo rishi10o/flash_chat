@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "596777698549",
+    "project_id": "flash-chat-66c3e",
+    "storage_bucket": "flash-chat-66c3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596777698549:android:3b48d7b23b3ec7cceeb1bc",
+        "android_client_info": {
+          "package_name": "co.rishi.flash_chat_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596777698549-pirrbdnf9q2odrh5dpussh6ifr43606i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLz8MmY2MIw8Lveq3FION87bXX0cgjeRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596777698549-pirrbdnf9q2odrh5dpussh6ifr43606i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
